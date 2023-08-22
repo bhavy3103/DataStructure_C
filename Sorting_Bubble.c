@@ -4,7 +4,7 @@
 
 int main()
 {
-    int n;
+    int n; // number given by user
     printf("Enter the total number count which you want to sort :  ");
     scanf("%d", &n);
     int a[n], temp, flag = 0;
